@@ -28,7 +28,7 @@
 
         <!--通用部分-->
         <log4j.version>2.6.1</log4j.version>
-        <junit.version>4.10</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <!--Spring-->
         <spring.version>4.3.0.RELEASE</spring.version>
