@@ -23,7 +23,7 @@
         <ssm-dao.version>1.0-SNAPSHOT</ssm-dao.version>
         <ssm-service.version>1.0-SNAPSHOT</ssm-service.version>
         <ssm-webui.version>1.0-SNAPSHOT</ssm-webui.version>
-        <jackson.version>2.7.4</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <commons-lang3.version>3.4</commons-lang3.version>
 
         <!--通用部分-->
